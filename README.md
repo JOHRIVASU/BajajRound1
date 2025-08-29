@@ -19,8 +19,8 @@ Content-Type: application/json
 ```json
 {
   "is_success": true,
-  "user_id": "tanmay_mishra_22072002",
-  "email": "tanmay.mishra2022@vitstudent.ac.in",
+  "user_id": "vasu_johri_04102004",
+  "email": "vasu.johri2022@vitstudent.ac.in",
   "roll_number": "22BEC0978",
   "odd_numbers": ["1"],
   "even_numbers": ["334", "4"],
