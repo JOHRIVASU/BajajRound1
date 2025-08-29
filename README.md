@@ -19,7 +19,7 @@ Content-Type: application/json
 ```json
 {
   "is_success": true,
-  "user_id": "vasu_johri_04102004",
+  "user_id": "Vasu_Johri_04102004",
   "email": "vasu.johri2022@vitstudent.ac.in",
   "roll_number": "22BEC0978",
   "odd_numbers": ["1"],
