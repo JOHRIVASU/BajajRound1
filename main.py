@@ -83,6 +83,3 @@ async def bfhl(payload: InputData):
             "is_success": False,
             "error": str(e)
         }
-@app.get("/bfhl")
-def info():
-    return {"message": "Use POST /bfhl with body: {\"data\": [ ... ]}"}
